@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+  pseudo-proxy:
+    container_name: pseudo-proxy
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - '.:/app'
+    ports:
+      - '4567'
