@@ -1,6 +1,7 @@
 #Pseudo-Proxy
 
 When I was developing my first React application, I faced a problem where I cannot make requests to some API's because of  a ```cors error```.
+https://daveceddia.com/access-control-allow-origin-cors-errors-in-react-express/
 
 It happened because when you are developing front-end applications, your application should be in the same domain name of your API.
 
