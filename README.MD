@@ -1,4 +1,4 @@
-#Pseudo-Proxy
+# Pseudo-Proxy
 
 When I was developing my first React application, I faced a problem where I cannot make requests to some API's because of  a ```cors error```.
 https://daveceddia.com/access-control-allow-origin-cors-errors-in-react-express/
